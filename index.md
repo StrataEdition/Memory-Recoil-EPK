@@ -12,12 +12,14 @@ Parial Defrag
 <br>
 
 ---
+<br>
   
 *Hard-drives spinning, the byproducts of a skipped line. Memories compressed and spat out in the dark spaces of a semi-compressed storage device.*
 
 <br>
 <img src="memoryRecoil_Cover.JPG" alt="Memory Recoil Cover" class="centered-image">
 <br>
+
 ---
   
 ▮ Tracklist
