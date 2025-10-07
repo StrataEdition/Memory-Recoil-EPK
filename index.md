@@ -36,7 +36,8 @@ Cover Design: **Partial Defrag**
 <br>
   
 ▮ Artist Bio
-Onas Ueno is a London-based multidisciplinary artist.
+Partial Defrag: "In the empty space of a semi-compressed hard drive."
+
 <br>
 ▮ For all enquiries, please contact: **strata.edition@gmail.com**
 <br>
