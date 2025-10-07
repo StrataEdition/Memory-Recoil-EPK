@@ -29,12 +29,12 @@ After his critically acclaimed debut release *ScanDisk* ([The Quietus](https://t
 ---
 <br> 
 
-## Release Format
+## ■ Release Format
 EP Digital + CD (*30-copies limited edition CDs in blue flip-cases packaged in antistatic bags*).
 <br>
 
 
-## Tracklist
+## ■ Tracklist
 1. Memory Recoil
 2. Memory Recoil 2
 3. Non-recoverable memory errors
@@ -42,13 +42,13 @@ EP Digital + CD (*30-copies limited edition CDs in blue flip-cases packaged in a
 
 <br>
   
-## Credits
+## ■ Credits
 Written and Produced: **Partial Defrag**
 Mixing & Mastering: **Pietro Bardini**
 Cover Design: **Partial Defrag**
 <br>
   
-## Artist Bio
+## ■ Artist Bio
 Partial Defrag: "In the empty space of a semi-compressed hard drive".
 
 <br>
