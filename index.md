@@ -20,7 +20,7 @@ Listening & Download link for Partial Defrag *Memory Recoil* on STRATA for radio
   
 *"Hard-drives spinning, the byproducts of a skipped line. Memories compressed and spat out in the dark spaces of a semi-compressed storage device."*
 
-After his critically acclaimed debut release *ScanDisk* ([The Quietus](https://thequietus.com/quietus-reviews/partial-defrag-scandisk-review/), [NINA Staff Pick](https://www.ninaprotocol.com/articles/partial-defrag-scandisk)), Partial Defrag is returning on STRATA with a new 4-tracks EP titled *Memory Recoil*. Moving from vorteic sound design to ditehring piano motifs Memory Recoil ventures deeper into the heart of the hard-drive, where memory is exploded and re-combined into new heart-felt...(continue)
+After his critically acclaimed debut release *ScanDisk* ([The Quietus](https://thequietus.com/quietus-reviews/partial-defrag-scandisk-review/), [NINA Staff Pick](https://www.ninaprotocol.com/articles/partial-defrag-scandisk)), Partial Defrag is returning on STRATA with a new 4-tracks EP titled *Memory Recoil*. Moving from swirling sound design to dithering piano motifs Memory Recoil ventures deeper into the heart of the hard-drive, where memory is exploded and re-combined into new heart-felt...(continue)
 
 <br>
 <img src="memoryRecoil_Cover.JPG" alt="Memory Recoil Cover" class="centered-image">
@@ -37,7 +37,7 @@ EP Digital + CD (*30-copies limited edition CDs in blue flip-cases packaged in a
 ## Tracklist
 1. Memory Recoil
 2. Memory Recoil 2
-3. Non-erasable memory errors
+3. Non-recoverable memory errors
 4. Optical Eraser
 
 <br>
