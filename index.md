@@ -7,12 +7,12 @@ layout: home
 
 # Partial Defrag: Memory Recoil (DL + CD)
 
-Listening & Download link for Partial Defrag *Memory Recoil* on STRATA for radio X press X personal enjoyment
+Streaming & Download link for Partial Defrag *Memory Recoil* on STRATA for radio X press X personal enjoyment:
 
-### Release Date: 1.12.2025 (Bandcamp, NINA Protocol)
-<br/>
 [Private Streaming Link](https://on.soundcloud.com/52nDFJmNBvthddgR9) (*Please do not share*)
 [Private Download Link](https://drive.google.com/drive/folders/1BUNzDlvQYPKmk4WAZI8S4Yv46X6m0yv8?usp=sharing) (*Please do not share*)
+<br>
+### Release Date: 1.12.2025 (Bandcamp, NINA Protocol)
 <br>
 
 ---
