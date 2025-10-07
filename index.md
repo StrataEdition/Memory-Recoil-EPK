@@ -18,7 +18,7 @@ Streaming & Download link for *Memory Recoil* on STRATA, for radio / press / per
 ---
 <br>
   
-After a critically acclaimed debut release (featured in [The Quietus](https://thequietus.com/quietus-reviews/partial-defrag-scandisk-review/), and selected as a [NINA Staff Pick](https://www.ninaprotocol.com/articles/partial-defrag-scandisk)), Partial Defrag returns to STRATA with *Memory Recoil*. Shifting from swirling sound design to teetering piano motifs, Memory Recoil ventures deeper into the heart of the hard drive, where the haunted remnants of compressed data are mechanically recombined into uncanny, heartfelt confabulations.
+After a critically acclaimed debut release featured in [The Quietus](https://thequietus.com/quietus-reviews/partial-defrag-scandisk-review/), and selected as a [NINA Staff Pick](https://www.ninaprotocol.com/articles/partial-defrag-scandisk), Partial Defrag returns to STRATA with *Memory Recoil*. Shifting from swirling sound design to teetering piano motifs, Memory Recoil ventures deeper into the heart of the hard drive, where the haunted remnants of compressed data are mechanically recombined into uncanny, heartfelt confabulations.
 
 <br>
 <img src="memoryRecoil_Cover.JPG" alt="Memory Recoil Cover" class="centered-image">
