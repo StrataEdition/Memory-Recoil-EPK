@@ -16,6 +16,9 @@ Parial Defrag
   
 *"Hard-drives spinning, the byproducts of a skipped line. Memories compressed and spat out in the dark spaces of a semi-compressed storage device."*
 
+After his critically acclaimed debut release *ScanDisk* (The Quietus, NINA Staff Pick), Partial Defrag is returning on STRATA with a 4-tracks EP *Memory Recoil*.
+Moving from vorteoic sound design to lo-fi ambient stabs Memory Recoil ventures deeper into the heart of the hard-drive, where memory is exploded and re-combined into new layers of memetics.
+
 <br>
 <img src="memoryRecoil_Cover.JPG" alt="Memory Recoil Cover" class="centered-image">
 <br>
