@@ -7,7 +7,7 @@ layout: home
 
 # Partial Defrag: Memory Recoil (DL + CD)
 
-Streaming & Download link for *Memory Recoil* on STRATA, for radio X press X personal enjoyment:
+Streaming & Download link for *Memory Recoil* on STRATA, for radio / press / personal enjoyment:
 
 [Private Streaming Link](https://on.soundcloud.com/52nDFJmNBvthddgR9) (*Please do not share*)
 [Private Download Link](https://drive.google.com/drive/folders/1BUNzDlvQYPKmk4WAZI8S4Yv46X6m0yv8?usp=sharing) (*Please do not share*)
@@ -20,7 +20,7 @@ Streaming & Download link for *Memory Recoil* on STRATA, for radio X press X per
   
 *"Hard-drives spinning, memories compressed and spat out in the dark spaces of a semi-compressed storage device."*
 
-After his critically acclaimed debut release *ScanDisk* (read on [The Quietus](https://thequietus.com/quietus-reviews/partial-defrag-scandisk-review/) & [NINA Staff Pick](https://www.ninaprotocol.com/articles/partial-defrag-scandisk)), Partial Defrag is returning on STRATA with *Memory Recoil*. Moving from swirling sound design to teetering piano motifs, Memory Recoil ventures deeper into the heart of the hard-drive, where the haunted remnants of forgotten memories are mechanically re-combined into uncanny heart-felt confabulations.
+After a critically acclaimed debut release (featured in [The Quietus](https://thequietus.com/quietus-reviews/partial-defrag-scandisk-review/), and selected as a [NINA Staff Pick](https://www.ninaprotocol.com/articles/partial-defrag-scandisk)), Partial Defrag returns to STRATA with *Memory Recoil*. Shifting from swirling sound design to teetering piano motifs, Memory Recoil ventures deeper into the heart of the hard drive, where the haunted remnants of compressed data are mechanically recombined into uncanny, heartfelt confabulations.
 
 <br>
 <img src="memoryRecoil_Cover.JPG" alt="Memory Recoil Cover" class="centered-image">
