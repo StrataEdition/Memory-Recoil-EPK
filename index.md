@@ -13,17 +13,15 @@ Parial Defrag
 
 ---
   
-*Across its runtime, Onas Ueno builds immersive soundscapes that shift and fracture like thoughts mid-formation. Blending ambient atmospheres, digital dissonance and tactile textures, Umwelt sketches a fragmented world; half hyper-real, half doodle. The title, Umwelt, borrowed from the German term for ‘the world as experienced by a particular organism’, serves as a guiding principle in the formation of the songs, allowing the sounds to evolve with a sense of self-determination.*
+*Hard-drives spinning, the byproducts of a skipped line. Memories compressed and spat out in the dark spaces of a semi-compressed storage device.*
 
-<img src="UmweltCover.jpg" alt="Umwelt Cover" class="centered-image">
+<img src="memoryRecoil_Cover.JPG" alt="Memory Recoil Cover" class="centered-image">
   
 ▮ Tracklist
-1. Too Ghost To Body
-2. Lo
-3. Every Dread Delight
-4. Qualia
-5. Tools For A Second
-6. What Angels
+1. Memory Recoil
+2. Memory Recoil 2
+3. Non-erasable memory errors
+4. Optical Eraser
 
 <br>
   
