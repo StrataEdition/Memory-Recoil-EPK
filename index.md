@@ -7,7 +7,7 @@ layout: home
 
 # Partial Defrag: Memory Recoil (DL + CD)
 
-Streaming & Download link for Partial Defrag *Memory Recoil* on STRATA for radio X press X personal enjoyment:
+Streaming & Download link for *Memory Recoil* on STRATA, for radio X press X personal enjoyment:
 
 [Private Streaming Link](https://on.soundcloud.com/52nDFJmNBvthddgR9) (*Please do not share*)
 [Private Download Link](https://drive.google.com/drive/folders/1BUNzDlvQYPKmk4WAZI8S4Yv46X6m0yv8?usp=sharing) (*Please do not share*)
@@ -30,7 +30,7 @@ After his critically acclaimed debut release *ScanDisk* ([The Quietus](https://t
 <br> 
 
 ## Release Format
-EP Digital + CD (*30-copies limited edition CDs in blue flip-cases packaged in antistatic bags*)
+EP Digital + CD (*30-copies limited edition CDs in blue flip-cases packaged in antistatic bags*).
 <br>
 
 
@@ -49,7 +49,7 @@ Cover Design: **Partial Defrag**
 <br>
   
 ## Artist Bio
-Partial Defrag: "In the empty space of a semi-compressed hard drive."
+Partial Defrag: "In the empty space of a semi-compressed hard drive".
 
 <br>
 
