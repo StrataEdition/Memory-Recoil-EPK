@@ -3,15 +3,22 @@ title: Memory Recoil EPK
 layout: home
 ---
 
-▮ Release Info
-Release Title: **Memory Recoil**
-Artist: Partial Defrag
-Release Format: EP Digital + CD (*30-copies limited edition CDs in blue flip-cases packaged in antistatic bags*)
-
+▮ RELEASE TITLE
+**Memory Recoil**
 <br>
-▮ Release Date: **1.12.2025**
-[Private Streaming Link](https://on.soundcloud.com/IRJKTqzyTw0RrKJOHv) (*Please do not share*)
-[Private Download Link](https://drive.google.com/drive/folders/1dkPF0S0om1bNitojJD--bZ2Ng0SwfgGL?usp=sharing) (*Please do not share*)
+▮ ARTIST
+Partial Defrag
+<br>
+▮RELEASE FORMAT
+EP Digital + CD (*30-copies limited edition CDs in blue flip-cases packaged in antistatic bags*)
+<br>
+▮ RELEASE DATE
+**1.12.2025**
+<br>
+▮ PRIVATE LINKS
+<br>
+[Streaming Link](https://on.soundcloud.com/IRJKTqzyTw0RrKJOHv) (*Please do not share*)
+[Download Link](https://drive.google.com/drive/folders/1dkPF0S0om1bNitojJD--bZ2Ng0SwfgGL?usp=sharing) (*Please do not share*)
 <br>
 
 ---
@@ -28,7 +35,7 @@ Moving from vorteic sound design to ditehring piano motifs Memory Recoil venture
 
 ---
 <br> 
-▮ Tracklist
+▮ TRACKLIST
 1. Memory Recoil
 2. Memory Recoil 2
 3. Non-erasable memory errors
@@ -36,18 +43,17 @@ Moving from vorteic sound design to ditehring piano motifs Memory Recoil venture
 
 <br>
   
-▮ Credits
+▮ CREDITS
 Written and Produced: **Partial Defrag**
-Mixing Engineer: **Pietro Bardini**
-Master Engineer: **Pietro Bardini**
+Mixing & Mastering: **Pietro Bardini**
 Cover Design: **Partial Defrag**
 <br>
   
-▮ Artist Bio
+▮ ARTIST BIO
 Partial Defrag: "In the empty space of a semi-compressed hard drive."
 
 <br>
-▮ For all enquiries, please contact: **strata.edition@gmail.com**
+>>> For all enquiries, please contact: **strata.edition@gmail.com**
 <br>
 <br>
 
