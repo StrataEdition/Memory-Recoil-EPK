@@ -5,7 +5,7 @@ layout: home
 
 
 
-# Partial Defrag: Memory Recoil (DL + CD)
+# Partial Defrag: Memory Recoil EP (DL + CD)
 
 Streaming & Download link for *Memory Recoil* on STRATA, for radio / press / personal enjoyment:
 
@@ -30,7 +30,7 @@ After a critically acclaimed debut release (featured in [The Quietus](https://th
 <br> 
 
 ## ■ Release Format
-EP Digital + CD (*30-copies limited edition CDs in blue flip-cases packaged in antistatic bags*).
+Digital + CD (*30-copies limited edition CDs in blue flip-cases packaged in antistatic bags*).
 <br>
 
 
