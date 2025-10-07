@@ -3,8 +3,11 @@ title: Memory Recoil EPK
 layout: home
 ---
 
-▮ Memory Recoil EP
-Parial Defrag
+▮ Release Info
+Release Title: **Memory Recoil**
+Artist: Partial Defrag
+Release Format: EP Digital + CD (*30-copies limited edition CDs in blue flip-cases packaged in antistatic bags*)
+
 <br>
 ▮ Release Date: **1.12.2025**
 [Private Streaming Link](https://on.soundcloud.com/IRJKTqzyTw0RrKJOHv) (*Please do not share*)
@@ -16,8 +19,8 @@ Parial Defrag
   
 *"Hard-drives spinning, the byproducts of a skipped line. Memories compressed and spat out in the dark spaces of a semi-compressed storage device."*
 
-After his critically acclaimed debut release *ScanDisk* (The Quietus, NINA Staff Pick), Partial Defrag is returning on STRATA with a 4-tracks EP *Memory Recoil*.
-Moving from vorteoic sound design to lo-fi ambient stabs Memory Recoil ventures deeper into the heart of the hard-drive, where memory is exploded and re-combined into new layers of memetics.
+After his critically acclaimed debut release *ScanDisk* ([The Quietus](https://thequietus.com/quietus-reviews/partial-defrag-scandisk-review/), [NINA Staff Pick](https://www.ninaprotocol.com/articles/partial-defrag-scandisk)), Partial Defrag is returning on STRATA with a 4-tracks EP *Memory Recoil*.
+Moving from vorteic sound design to ditehring piano motifs Memory Recoil ventures deeper into the heart of the hard-drive, where memory is exploded and re-combined into new heart-felt...(continue)
 
 <br>
 <img src="memoryRecoil_Cover.JPG" alt="Memory Recoil Cover" class="centered-image">
