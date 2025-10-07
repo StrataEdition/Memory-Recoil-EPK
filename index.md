@@ -35,7 +35,7 @@ Digital + CD (*30-copies limited edition CDs in blue flip-cases packaged in anti
 ## ■ Tracklist
 1. Memory Recoil
 2. Memory Recoil 2
-3. Non-recoverable memory errors
+3. Non-recoverable Memory Errors
 4. Optical Eraser
 
 <br>
@@ -47,7 +47,7 @@ Cover Design: **Partial Defrag**
 <br>
   
 ## ■ Artist Bio
-Partial Defrag: *"In the empty space of a semi-compressed hard drive"*.
+*"In the empty space of a semi-compressed hard drive"*.
 
 <br>
 
