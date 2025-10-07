@@ -1,12 +1,12 @@
 ---
-title: Umwelt EPK
+title: Memory Recoil EPK
 layout: home
 ---
 
-▮ Umwelt EP
-Onas Ueno
+▮ Memory Recoil EP
+Parial Defrag
 <br>
-▮ Release Date: **05.09.2025**
+▮ Release Date: **1.12.2025**
 [Private Streaming Link](https://on.soundcloud.com/IRJKTqzyTw0RrKJOHv) (*Please do not share*)
 [Private Download Link](https://drive.google.com/drive/folders/1dkPF0S0om1bNitojJD--bZ2Ng0SwfgGL?usp=sharing) (*Please do not share*)
 <br>
@@ -28,10 +28,10 @@ Onas Ueno
 <br>
   
 ▮ Credits
-Written and Produced: **Jonas Pequeno**
-Mixing Engineer: **Jonas Pequeno**
-Master Engineer: **Conor Dalton**
-Cover Design: **Amelia Galliford**
+Written and Produced: **Partial Defrag**
+Mixing Engineer: **Pietro Bardini**
+Master Engineer: **Pietro Bardini**
+Cover Design: **Partial Defrag**
 <br>
   
 ▮ Artist Bio
@@ -42,4 +42,4 @@ Onas Ueno is a London-based multidisciplinary artist.
 <br>
 
 
-<img src="BWLogo_.png" alt="Strata Logo" class="centered-logo">
+<img src="logo.png" alt="Strata Logo" class="centered-logo">
