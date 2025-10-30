@@ -33,10 +33,10 @@ Digital + CD (*30-copies limited edition CDs in blue flip-cases packaged in anti
 
 
 ## ■ Tracklist
-1. Memory Recoil
-2. Memory Recoil 2
-3. Non-recoverable Memory Errors
-4. Optical Eraser
+1. Optical Eraser
+2. Non-Recoverable Read Errors
+3. Bad Sectors
+4. Memory Recoil
 
 <br>
   
