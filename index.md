@@ -11,7 +11,19 @@ Streaming & Download link for *Memory Recoil* on STRATA, for radio / press / per
 
 [Private Streaming Link](https://on.soundcloud.com/hJo3tjbgKlbsYyC57F)
 
-<iframe width="100%" height="250" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%3Aplaylists%3A2105745531%3Fsecret_token%3Ds-mb4T0SjZqft&color=%23312b3f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/strata-edition" title="STRATA" target="_blank" style="color: #cccccc; text-decoration: none;">STRATA</a> · <a href="https://soundcloud.com/strata-edition/sets/memory-recoil/s-mb4T0SjZqft" title="Memory Recoil" target="_blank" style="color: #cccccc; text-decoration: none;">Memory Recoil</a></div>
+<iframe
+  width="100%"
+  height="250"
+  scrolling="no"
+  frameborder="no"
+  allow="autoplay"
+  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%3Aplaylists%3A2105745531%3Fsecret_token%3Ds-mb4T0SjZqft&color=%23312b3f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true">
+</iframe>
+
+<div style="font-size: 10px; color: #cccccc; line-break: anywhere; word-break: normal; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-family: Interstate, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Garuda, Verdana, Tahoma, sans-serif; font-weight: 100;">
+  <a href="https://soundcloud.com/strata-edition" title="STRATA" target="_blank" style="color: #cccccc; text-decoration: none;">STRATA</a> · 
+  <a href="https://soundcloud.com/strata-edition/sets/memory-recoil/s-mb4T0SjZqft" title="Memory Recoil" target="_blank" style="color: #cccccc; text-decoration: none;">Memory Recoil</a>
+</div>
 
 
 [Private Download Link (WAV/FLAC/MP3)](https://drive.google.com/drive/folders/16noqMvtTAGF2rTSexMFTnEJdmYyMf9vQ?usp=sharing)
