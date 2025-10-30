@@ -28,7 +28,11 @@ After a critically acclaimed debut release featured in [The Quietus](https://the
 <br> 
 
 ## ■ Release Format
-Digital + CD (*30-copies limited edition CDs in blue flip-cases packaged in antistatic bags*).
+Digital + CD (*30-copies limited edition CDs in blue flip-cases with blue vynil cover packaged in antistatic bags*).
+<br>
+
+<br>
+<img src="Cd_Memory Recoil.jpg" alt="Memory Recoil CD" class="centered-image">
 <br>
 
 
